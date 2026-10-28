@@ -1,0 +1,6 @@
+{
+  "name": "OxySphere - Oxide, Peroxide & Superoxide Lab",
+  "description": "Interactive inorganic chemistry workbench exploring oxides, peroxides, and superoxides: water solubility, oxygen-content reactivity trends, hydrolysis lab simulator, and molecular orbital diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
